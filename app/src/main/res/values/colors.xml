@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303f9f</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="btnSignUp">#39796b</color>
+    <color name="btnSignActive">#A9d440</color>
+
+    <color name="overlayBackground">#7f333639</color>
+    <color name="overlayActionBar">#0e0d0e</color>
+    <color name="red">#DB3236</color>
+    <color name="back">#0e0d0e</color>
+    <color name="blue">#4885ED</color>
+    <color name="green">#3CBA54</color>
+    <color name="yellow">#F4C20D</color>
+    <color name="colorWhite">#FFF</color>
+    <color name="colorBackground">#80000000</color>
+    <color name="bgToolbar">#183545</color>
+    <color name="bgLogo">#f67122</color>
+    <color name="colorGray">#CCC</color>
+    <color name="colorFacebook">#4a6ea9</color>
+    <color name="colorGoogle">#da4835</color>
+    <color name="colorBlack">#000</color>
+    <color name="colorRed">#FFF62226</color>
+    <color name="tranparentBlack">#B2000000</color>
+    <color name="colorGreen">#38f734</color>
+    <color name="colorSliderInActive">#8095a1</color>
+
+
+</resources>

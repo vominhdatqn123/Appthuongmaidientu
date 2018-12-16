@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">ShopApp DK</string>
+    <string name="slogan">Ứng dụng cho thuê xe máy tự lái</string>
+    <string name="title_activity_home">Trang chủ</string>
+
+    <string name="navigation_drawer_open">Mở thanh thông báo</string>
+    <string name="navigation_drawer_close">Tắt thanh thông báo</string>
+    <string name="txtmhchao1"> Thế giới mua sắm trong tằm tay bạn</string>
+    <string name="txtmhchao2"> Giao hàng tận nơi + thanh toán dễ dàng</string>
+    <string name="txtmhchao3"> 100% Bảo vệ người tiêu dùng</string>
+    <string name="action_settings">Cài đặt</string>
+    <string name="orderPlacedStr">Đặt hàng</string>
+    <string name="txtQuenMatKhau">Quên mật khẩu ?</string>
+    <string name="txtDangNhap">Đăng nhập</string>
+    <string name="txtDangNhapBang">Hoặc đăng nhập bằng</string>
+    <string name="txtFaceBook">Facebook</string>
+    <string name="txtGoogle">Google</string>
+    <string name="facebook_app_id">2197236673928427</string> <string name="fb_login_protocol_scheme">fb2197236673928427</string>
+
+</resources>

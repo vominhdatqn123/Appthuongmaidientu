@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "899848539160",
+    "firebase_url": "https://shiopppp-9cdf5.firebaseio.com",
+    "project_id": "shiopppp-9cdf5",
+    "storage_bucket": "shiopppp-9cdf5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:899848539160:android:f7d42c03941a2754",
+        "android_client_info": {
+          "package_name": "com.androideatit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "899848539160-vnsd0isuj47pmg612romn9rmm5c19qva.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.androideatit",
+            "certificate_hash": "75721b842085f8006ac51cb8c72b59247c434c91"
+          }
+        },
+        {
+          "client_id": "899848539160-9qountrt7bdj9610esgnr9vopstduov1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPBDlBxAJI9oJtwkxPZsswczYFUMNrI6I"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "899848539160-9qountrt7bdj9610esgnr9vopstduov1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,2 +1,2 @@
-# Appthuongmaidientu
-thương mại điện tử
+# AndroidEatIt
+tested on API 26, nexus4

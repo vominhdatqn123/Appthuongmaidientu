@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_margin="8dp"
+    app:cardElevation="4dp">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/colorGray"
+        android:orientation="vertical"
+        >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:padding="10dp"
+            android:layout_marginTop="10dp"
+            android:background="@color/colorWhite"
+            >
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Bán và đóng gói bởi"
+                />
+
+            <TextView
+                android:id="@+id/txtTenCHDongGoi"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Lazada"
+                android:textSize="18sp"
+                android:textStyle="bold"
+                android:textColor="@color/colorFacebook"
+                />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Trả hàng miễn phí"
+                />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Đảm bảo chính hảng 100%"
+
+                />
+
+            <TextView
+                android:id="@+id/order_id"
+                android:textColor="#df1a1a"
+                android:gravity="center_vertical|start"
+                android:textAllCaps="true"
+                android:text="#111111"
+                android:textStyle="bold"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+
+            <TextView
+
+                android:id="@+id/order_status"
+
+                android:gravity="center_vertical|start"
+                android:textAllCaps="true"
+                android:textColor="#df1a1a"
+                android:text="Status"
+                android:textStyle="bold"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+
+            <TextView
+
+                android:id="@+id/order_phone"
+
+                android:gravity="center_vertical|start"
+                android:textAllCaps="true"
+                android:textColor="#df1a1a"
+                android:text="123456789"
+                android:textStyle="bold"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+
+            <TextView
+
+                android:id="@+id/order_address"
+
+                android:gravity="center_vertical|start"
+                android:textAllCaps="true"
+                android:textColor="#df1a1a"
+                android:text="Address"
+                android:textStyle="bold"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:layout_marginTop="10dp"
+            >
+
+            <Button
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="Bảo vệ người mua hàng 100%"
+                android:drawableLeft="@drawable/icon_shield"
+                android:textStyle="bold"
+                android:textSize="12sp"
+                android:textColor="@color/bgToolbar"
+                android:background="@color/colorWhite"
+                />
+
+            <Button
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:drawableLeft="@drawable/status_shield"
+                android:text="Đảm bảo sự hài lòng khách hàng"
+                android:textStyle="bold"
+                android:textSize="12sp"
+                android:textColor="@color/colorGreen"
+                android:background="@color/colorWhite"
+                />
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+</android.support.v7.widget.CardView>
